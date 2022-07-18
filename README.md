@@ -8,12 +8,16 @@ Of the 90,398 expected to retire, the largest number of impending retirees hold 
 The creation of the Mentorship Eligibility table revealed a total of 1,549 employees meet the set requirements to participate in Pewlett Hackard's mentorship program. 
 
 ## Summary
-* **How many roles will need to be filled as the "Silver Tsunami" begins to make an impact?
+*How many roles will need to be filled as the "Silver Tsunami" begins to make an impact?
+
 The analysis revealed an estimated 90,398 employees are expected to retire, therefore the number of roles that will need to be filled depends on the number employees who we can confirm will retire.
 
-* **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 While there are a number of expected retirees throughout departments with the desired knowledge and experience, the current ratio reflected in the data of one mentor to every 59 mentees is not desirable. This ratio may vary as it pertains to upcoming departmental needs and available roles.
 
-* **Additional Queries or Tables that may provide more insight into the upcoming "Silver Tsunami":
+*Additional Queries or Tables that may provide more insight into the upcoming "Silver Tsunami":
+
 The current retirement info can be broken down even further by an additional query generating a list of possible retirees expected to leave the company at the end of the current and/or following year.
+
 An additional salary table can be utilized in the form of a bar chart to display the average salary for each title. 
